@@ -28,3 +28,22 @@ if (isset($_POST['nimi']) && isset($_POST['email']) && isset($_POST['sonum'])) {
     }
 }
 ?>
+<meta charset="utf-8">
+<style>
+    html { color-scheme: dark; }
+    body { width: 35em; margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif; }
+</style>
+<h2>Tagasiside</h2>
+<form action="" method="post">
+    Teie nimi:<br>
+    <input name="nimi" type="text">
+    <br>
+    Teie email:<br>
+    <input name="email" type="text">
+    <br>
+    Sõnum:<br>
+    <textarea cols="30" rows="10" name="sonum"></textarea>
+    <br>
+    <input value="saada sõnum" type="submit">
+</form>
