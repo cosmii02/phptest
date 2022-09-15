@@ -10,8 +10,8 @@ if (isset($_POST['nimi']) && isset($_POST['email']) && isset($_POST['sonum'])) {
             $nimi = trim(addslashes($_POST['nimi']));
             $email = trim(addslashes($_POST['email']));
             $sonum = trim(addslashes($_POST['sonum']));
-            //emaili andmed 
-            $to = 'metshein\@gmail.com';
+            //emaili andmed
+            $to = 'cosmii02@cosmii02.com';
             $subject = 'Tagasiside kodulehelt';
             $message = $sonum; $from = 'From: '.$nimi.'<'.$email.'>';
             //kas emaili saatmine õnnestus
