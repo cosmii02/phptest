@@ -3,8 +3,8 @@
 <body>
 
 <?php
-$tootja = "Audi";
-$varv = "W3Schools.com";
+$tootja = " Audi";
+$varv = " Punane";
 
 echo "Minu uus " . $tootja .  "On"  . $varv . "<br>";
 ?>
