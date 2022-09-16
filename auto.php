@@ -4,7 +4,7 @@
 
 <?php
 $tootja = " Audi ";
-$varv = " Punane";
+$varv = " Punane.";
 
 echo "Minu uus " . $tootja .  "on"  . $varv . "<br>";
 ?>
