@@ -3,10 +3,10 @@
 <body>
 
 <?php
-$tootja = " Audi";
+$tootja = " Audi ";
 $varv = " Punane";
 
-echo "Minu uus " . $tootja .  "On"  . $varv . "<br>";
+echo "Minu uus " . $tootja .  "on"  . $varv . "<br>";
 ?>
 
 </body>
