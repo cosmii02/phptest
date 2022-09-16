@@ -5,11 +5,8 @@
 <?php
 $tootja = "Audi";
 $varv = "W3Schools.com";
-$x = 5;
-$y = 4;
 
-echo "Minu uus " . $tootja . "<br>";
-echo $x + $y;
+echo "Minu uus " . $tootja .  "On"  . $varv . "<br>";
 ?>
 
 </body>
