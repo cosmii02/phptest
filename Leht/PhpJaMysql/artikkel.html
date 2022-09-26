@@ -1,0 +1,40 @@
+<!--Franco Kikkas IS21-->
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="../../ckeditor/ckeditor.js"></script>
+    
+	<title>WYSIWYG</title>
+	<style type="text/css">
+		#sisu{
+			width: 700px;
+		}
+	</style>
+      <meta charset="utf-8">
+  <style>
+    html { color-scheme: dark; }
+    body { width: 35em; margin: 0 auto;
+      font-family: Tahoma, Verdana, Arial, sans-serif; }
+  </style>
+</head>
+<body>
+<div id="sisu">
+	<h1>Artikli lisamine</h1>
+	
+	<form action="" method="post">
+			<textarea class="ckeditor" cols="20" name="uudis" id="uudis" rows="10">
+			</textarea>
+            <script>
+			CKEDITOR.replace( 'uudis', {
+				uiColor: '#4dfffc',
+				toolbar: [
+					['Bold', 'Italic', '-', 'NumberedList', 'BulletedList', '-', 'Link', 'Unlink', 'Format', 'Image']
+				]
+			});
+	</script>
+			<br>
+			<input type="submit" value="Salvesta">
+	</form>
+</div>
+</body>
+</html>
