@@ -1,4 +1,4 @@
-<!--Franco Kikkas IS21-->
+
 <h1>Romb</h1>
 <!DOCTYPE html>
 <html>

@@ -1,4 +1,4 @@
-<!--Franco Kikkas IS21-->
+
 <!doctype html>
 <html>
 <head>
@@ -62,7 +62,7 @@
 	
 ?>
 
-<p><a href="http://localhost/Leht/PhpAlused">Tagasi..</a>
+<p><a href="https://yuuna.cc/Leht/PhpAlused">Tagasi..</a>
 <p></body>
 </html>
 

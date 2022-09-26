@@ -1,4 +1,4 @@
-<!--Franco Kikkas IS21-->
+
 <!doctype html>
 <html>
 <head>
@@ -59,7 +59,7 @@ Blackie","Stollenbeck","Houseago","Dugall","Sprowson","Kitley","Mcenamin",
 	
 ?>
 
-<p><a href="http://localhost/Leht/PhpAlused">Tagasi..</a>
+<p><a href="https://yuuna.cc/Leht/PhpAlused">Tagasi..</a>
 <p></body>
 </html>
 

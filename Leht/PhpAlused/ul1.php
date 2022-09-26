@@ -1,4 +1,4 @@
-<!--Franco Kikkas IS21-->
+
 <?php
 /*
 Ülesanne 1

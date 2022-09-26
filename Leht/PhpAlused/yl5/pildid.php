@@ -1,4 +1,4 @@
-<!--Franco Kikkas IS21-->
+
 <?php 
 	$pildid = array("img/prentice.jpg","img/freeland.jpg","img/peterus.jpg","img/devlin.jpg","img/gabriel.jpg","img/pete.jpg");
 
