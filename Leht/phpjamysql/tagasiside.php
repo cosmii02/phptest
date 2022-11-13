@@ -23,7 +23,7 @@ if (isset($_POST['nimi']) && isset($_POST['email']) && isset($_POST['sonum'])) {
             $email = trim(addslashes($_POST['email']));
             $sonum = trim(addslashes($_POST['sonum']));
             //emaili andmed
-            $to = 'franco.kikkas@vikk.ee';
+            $to = 'temp@cosmii02.com';
             $subject = 'Tagasiside kodulehelt';
             $message = $sonum; $from = 'From: '.$nimi.'<'.$email.'>';
             //kas emaili saatmine õnnestus
