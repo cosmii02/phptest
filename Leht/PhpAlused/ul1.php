@@ -1,9 +1,6 @@
 
 <?php
-/*
-Ülesanne 1
-Franco Kikkas IS21
-*/
+
 //muutujate loomine
 $enimi = 'Karin';
 $pnimi = "Eegreid";
