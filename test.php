@@ -2,12 +2,11 @@
 //echo "Tere Proua Karin Eegrid";
 
 /*
-miteme
+mitme
 rea
 kommentaar
 */
 
-// test lmao
 
 $enimi = "Karin";
 $pnimi = "Eegrid";

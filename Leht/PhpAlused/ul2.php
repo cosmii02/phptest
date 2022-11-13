@@ -1,9 +1,6 @@
 
 <?php
-/*
-Ülesanne 2
-Franco Kikkas IS21
-*/
+
 //aritmeetilised operaatorid
 $x = 8;
 $y = 2;
